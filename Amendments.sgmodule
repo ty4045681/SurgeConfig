@@ -2,6 +2,7 @@
 #!desc=Amendments including `tls-provider` to `Network.framework` (may be unstable), `geoip` to Hackl0us' GeoIP2-CN and Mitm CA certificate.
 
 [General]
+ipv6 = true
 tls-provider = network-framework
 network-framework = true
 geoip-maxmind-url = https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb
